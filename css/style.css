@@ -23,6 +23,14 @@ img{
 	text-align:center;
 }
 
+#main_pic img{
+	display:block;
+	width:100%;
+	max-width:800px;
+	height:auto;
+	margin:0 auto;
+}
+
 em{
 	color:red;
 }
